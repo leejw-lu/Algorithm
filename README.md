@@ -1,2 +1,2 @@
 # Algorithm
-Java & C++  알고리즘 문제풀기
+python 알고리즘 문제풀기
