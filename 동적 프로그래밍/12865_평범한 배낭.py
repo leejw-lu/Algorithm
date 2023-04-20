@@ -9,7 +9,9 @@ n, k= map(int, read().split())
 WV=[[0,0]]
 for i in range(n):
     WV.append(list(map(int, read().split())))
-
+#WV.append(list(map(int, read().split())) for i in range(n))
+#WV=[list(map(int, read().split())) for i in range(n)]
+# [무게, value] => [[6, 13], [4, 8], [3, 6], [5, 12]] 
 ns=[[0 for i in range(k+1)] for j in range(n+1)]
 
 for i in range(1, n+1):
