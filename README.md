@@ -11,6 +11,12 @@
 
 [Backtracking]
 
+[Sorting](https://github.com/leejw-lu/Algorithm/issues/5#issue-1692522009)
+
+[Recursion](https://github.com/leejw-lu/Algorithm/issues/6#issue-1698607115)
+
+[Implementation](https://github.com/leejw-lu/Algorithm/issues/7#issue-1751875722)
+
 [String]
 
 [Math]
