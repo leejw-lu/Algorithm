@@ -1,11 +1,11 @@
 import sys
 read=sys.stdin.readline
 
-def compare(a, b):
-    if a[0] > b[0]:
+def compare(a, b): 
+    if a[0] > b[0]: #튜플 x
         return 1
-    elif a[0] == b[0]:
-        if a[1] > b[1]:
+    elif a[0] == b[0]: 
+        if a[1] > b[1]: #튜플 y
             return 1
         else:
             return 0
@@ -27,11 +27,11 @@ def merge_sort(arr):
             if left[l] < right[r]:
                 merged_arr.append(left[l])
                 l += 1
-            elif left[l]>right[r]:
+            elif left[l] > right[r]:
                 merged_arr.append(right[r])
                 r += 1
             else:
-                if compare(left[l], right[r]) == 1:
+                if compare(left[l], right[r]) == 1: # 왼쪽 값이 더 크다면 -> right 배열에 넣기
                     merged_arr.append(right[r])
                     r += 1
                 else:
@@ -49,7 +49,7 @@ for _ in range(N):
     array.append(tuple(map(int, input().split())))  # 좌표들 입력받기
 array = merge_sort(array)  # 정렬
 for x, y in array:  # 정렬된 좌표들 출력
-    print(x, y, sep=' ')
+    print(x, y, end=' ')
 
 
 

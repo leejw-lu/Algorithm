@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(10000) # 재귀 깊이 설정 : BFS로 풀면 RecursionError 에러남
+sys.setrecursionlimit(10000) # 재귀 깊이 설정 : DFS로 풀면 RecursionError 에러남
 read=sys.stdin.readline
 MAX= 50+ 10
 
