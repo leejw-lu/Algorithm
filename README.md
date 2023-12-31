@@ -77,6 +77,37 @@
 |22||백준|백트래킹|[15657번 N과 M(8)](https://www.acmicpc.net/problem/15657)|`java`|
 </details>
 
+<details>
+<summary>✏2023년 12월 기록 (자바 & 파이썬)</summary>
+    
+|no|날짜|사이트|주제|문제|언어|
+|:------:|---|:---:|:---:|:---:|---|
+|1|12/1|백준|그래프 탐색|[13023번 ABCDE](https://www.acmicpc.net/problem/13023)|`java`|
+|2||백준|문자열|[10798번 세로읽기](https://www.acmicpc.net/problem/10798)|`java`|
+|3|12/8|백준|수학|[13458번 시험 감독](https://www.acmicpc.net/problem/13458)|`java`|
+|4|12/9|백준|구현|[16935번 배열 돌리기3](https://www.acmicpc.net/problem/16935)|`java`|
+|5||백준|구현|[20055번 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|`java`|
+|6|12/10|백준|DP|[14501번 퇴사](https://www.acmicpc.net/problem/14501)|`java`|
+|7||백준|DP|[9095번 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|`java`|
+|8|12/11|백준|백트래킹|[14889번 스타트와 링크](https://www.acmicpc.net/problem/14889)|`java`|
+|9|12/13|백준|그래프 탐색|[1697번 숨바꼭질](https://www.acmicpc.net/problem/1697)|`java`|
+|10|12/15|백준|그리디|[1744번 수 묶기](https://www.acmicpc.net/problem/1744)|`java`|
+|11|12/17|백준|DP|[11053번 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|`java`|
+|12||백준|이분탐색|[2512번 예산](https://www.acmicpc.net/problem/2512)|`java`|
+|13|12/19|백준|시뮬레이션|[14503번 로봇 청소기](https://www.acmicpc.net/problem/14503)|`java`|
+|14|12/20|백준|이분탐색|[2805번 나무 자르기](https://www.acmicpc.net/problem/2805)|`java`|
+|15|12/21|백준|시뮬레이션|[14499번 주사위 굴리기](https://www.acmicpc.net/problem/14499)|`java`|
+|16|12/23|백준|이분탐색|[10816번 숫자 카드2](https://www.acmicpc.net/problem/10816)|`java`|
+|17|12/24|백준|문자열|[6550번 부분 문자열](https://www.acmicpc.net/problem/6550)|`java`|
+|18|12/28|백준|문자열|[1254번 팰린드롬 만들기](https://www.acmicpc.net/problem/1254)|`java`|
+|18(2)||백준|문자열|[1254번 팰린드롬 만들기](https://www.acmicpc.net/problem/1254)|`python`|
+|19|12/29|백준|시뮬레이션|[17144번 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|`python`|
+|20|12/30|백준|문자열|[17144번 듣보잡](https://www.acmicpc.net/problem/17144)|`python`|
+|21||백준|그래프 탐색|[2206번 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|`python`|
+|22|12/31|백준|문자열|[1120번 문자열](https://www.acmicpc.net/problem/1120)|`python`|
+</details>
+
+
 
 <br>
 
