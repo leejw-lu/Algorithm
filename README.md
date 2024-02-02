@@ -1,4 +1,4 @@
-## Algorithm with Java & Python
+## Algorithm with Python & Java
 ### 📆 **알고리즘 문제 기록**📆
 
 <details>
@@ -8,7 +8,7 @@
 
 
 <details>
-<summary>✏2023년 9월 기록 (파이썬) </summary>
+<summary>✏2023년 09월 기록 (파이썬) </summary>
   
 |no|날짜|사이트|주제|문제|
 |:------:|---|:---:|:---:|---|
@@ -107,6 +107,34 @@
 |22|12/31|백준|문자열|[1120번 문자열](https://www.acmicpc.net/problem/1120)|`python`|
 </details>
 
+<details>
+<summary>✏2024년 01월 기록 (파이썬 & sql)</summary>
+
+|no|날짜|사이트|주제|문제|언어|
+|:------:|:---:|:---:|:---:|:---:|---|
+|1|1/2|프로그래머스|SQL|SELECT 5문제|`sql`|
+|2|1/4|백준|그래프 탐색|[14500번 테트로미노](https://www.acmicpc.net/problem/14500)|`python`|
+|3|1/7|프로그래머스|SQL|SELECT 5문제|`sql`|
+|4|1/8|백준|시뮬레이션|[20056번 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|`python`|
+|5||프로그래머스|SQL|SELECT 10문제|`sql`|
+|6|1/9|프로그래머스|SQL|GROUP BY 6문제|`sql`|
+|7||백준|누적합|[11659번 구간 합 구하기4](https://www.acmicpc.net/problem/11659)|`python`|
+|8|1/10|백준|이분탐색|[2110번 공유기 설치](https://www.acmicpc.net/problem/2110)|`python`|
+|9||프로그래머스|SQL|집계함수 6문제|`sql`|
+|10||프로그래머스|SQL|IS NULL 5문제|`sql`|
+|11|1/12|프로그래머스|SQL|String, Date, Join, Group By 문제|`sql`|
+|12|1/17|코드트리|그리디|[2015_2_1바이러스검사]()|`python`|
+|13|1/18|백준|DP|[9251번 LCS](https://www.acmicpc.net/problem/9251)|`python`|
+|14|1/19|백준|DP|[9252번 LCS2](https://www.acmicpc.net/problem/9252)|`python`|
+|15||백준|구현|[1913번 달팽이](https://www.acmicpc.net/problem/1913)|`python`|
+|16|1/21|백준|구현|[20125번 쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)|`python`|
+|17|1/23|백준|구현|[14891번 톱니바퀴](https://www.acmicpc.net/problem/14891)|`python`|
+|18|1/24|백준|자료구조|[2164번 카드2](https://www.acmicpc.net/problem/2164)|`python`|
+|19||백준|구현|[1244번 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|`python`|
+|20|1/26|백준|DP|[1890번 점프](https://www.acmicpc.net/problem/1890)|`python`|
+|21|1/28|백준|그리디|[1092번 배](https://www.acmicpc.net/problem/1092)|`python`|
+|22|1/31|리트코드|문자열|[3번 LSWRC](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|`python`|
+</details>
 
 
 <br>
