@@ -160,6 +160,31 @@
 |17|2/25|리트코드|DP|72번 Edit Distance
 </details>
 
+<details>
+<summary>✏2024년 03월 기록 (파이썬) </summary>
+    
+![image](https://github.com/leejw-lu/Algorithm/assets/61766218/55644ff8-b8b5-417b-b578-c6aa98841567)
+![image](https://github.com/leejw-lu/Algorithm/assets/61766218/dd69e682-7b45-4ede-83f1-f7140ccf9a41)
+</details>
+
+<details>
+<summary>✏2024년 04월 기록 (파이썬) </summary>
+    
+![image](https://github.com/leejw-lu/Algorithm/assets/61766218/1e96f600-c84c-4e04-b78e-f89d9e087037)
+</details>
+
+<details>
+<summary>✏2024년 05월 기록 (파이썬) </summary>
+    
+![image](https://github.com/leejw-lu/Algorithm/assets/61766218/cb465428-be6f-4aba-bb22-7ba3bf0b674e)
+</details>
+
+<details>
+<summary>✏2024년 06월 기록 (파이썬) </summary>
+    
+![image](https://github.com/leejw-lu/Algorithm/assets/61766218/4aec93fa-e96c-4e34-8234-e5e95978f3b5)
+</details>
+
 <br>
 
 #### ⭐**알고리즘 주제 Issue** ⭐
