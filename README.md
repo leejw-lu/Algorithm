@@ -136,6 +136,29 @@
 |22|1/31|리트코드|문자열|[3번 LSWRC](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|`python`|
 </details>
 
+<details>
+<summary>✏2024년 02월 기록 (파이썬) </summary>
+    
+|no|날짜|사이트|주제|문제|
+|:------:|:---:|:---:|:---:|:---:|
+|1|2/3|리트코드|그래프 탐색|841번 Keys and Rooms|
+|2|2/3|리트코드|그래프 탐색|547번 Number of Provinces|
+|3|2/4|리트코드|DP|746번 Min Cost Climbing Stairs|
+|4|2/4|리트코드|DP|198번 House Robber|
+|5|2/5|리트코드|구현|605번 Can Place Flowers|
+|6|2/5|리트코드|문자열|151번 Reverse Words in a String|
+|7|2/8|리트코드|누적합|238번 Product of Array Excep Self
+|8|2/16|리트코드|그래프탐색|1926번 Nearest Exit from Entrance in Maze
+|9|2/18|리트코드|그래프탐색| 994번 Rotting Oranges
+|10|2/18|리트코드|자료구조|2215번 Find the Difference of Two Arrays
+|11|2/18|리트코드|문자열|443번 String Compression
+|12|2/18|리트코드|이진탐색|162번 Find Peak Element
+|13|2/23|리트코드|이진탐색|875번 Koko Eating Bananas
+|14|2/24|리트코드|문자열|345번 Reverse Vowels of a String
+|15|2/25|리트코드|구현|1431번 Kids With the Greatest Number of Candies
+|16|2/25|리트코드|DP|62번 Unique Paths
+|17|2/25|리트코드|DP|72번 Edit Distance
+</details>
 
 <br>
 
